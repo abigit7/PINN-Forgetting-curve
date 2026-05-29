@@ -3,7 +3,7 @@
 This repository contains beginner-friendly examples of Physics-Informed Neural Networks (PINNs). The notebook is designed to introduce a concept step by step, from defining a physical law to training a neural network that learns from it.
 ### Repository Structure
 
-* `PINN_Forgetting_Curve_Beginner.ipynb`
+* `PINN_Forgetting_Curve_Example.ipynb`
 
   * A simple PINN example that models how memory fades over time using a differential equation.
   * Recommended starting point if you're new to PINNs.
