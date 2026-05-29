@@ -1,2 +1,3 @@
-# PINN-example-Rumours-like-fire
-The source code for the medium blog on PINN 
+# PINN-example-The forgetting curve
+The source code for the medium blog on Physics-informed neural networks
+
