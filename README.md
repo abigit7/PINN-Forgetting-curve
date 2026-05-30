@@ -46,3 +46,4 @@ jupyter notebook
 
 These examples focus on intuition and understanding rather than state-of-the-art implementations, making them suitable for students, beginners, and anyone curious about combining machine learning with scientific principles.
 
+© 2026 Abirami Ravindran. All rights reserved. All third-party assets, images, and trademarks belong to their respective owners and are credited accordingly.
